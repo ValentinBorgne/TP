@@ -1,0 +1,7 @@
+body{background-color: rgb(155, 238, 130);}
+div.Entete{background-color:white;height:100px;
+    text-align : center;font-family: cursive;}
+
+div.Menu{background-color:rgb(255, 187, 0);
+float:left;width: 100px ; height : 950px;
+text-align : center;}
