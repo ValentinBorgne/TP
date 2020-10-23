@@ -31,8 +31,8 @@ body,html {
     display: block;
     margin-right: 0.625%;
     text-align: center;
-    line-height: 3;
-    color: black;
+    line-height: 5.13;
+    color: whitesmoke;
   }
 
   li{
@@ -44,7 +44,7 @@ body,html {
   }
   
   a:link, a:visited, a:focus {
-    background: yellow;
+    background: black;
     width:130px;
   }
   
