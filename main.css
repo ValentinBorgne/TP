@@ -8,4 +8,6 @@ div.Menu{background-color:grey;
     float : left;width: 100px ; height : 650px;
     text-align : center; }
 div.texte{width : 70%;float : left;padding-left : 50px}
-
+#position{object-position: 100%;}
+.titre{color : blue}
+.menu{color : red;font-family: cursive}
