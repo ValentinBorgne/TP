@@ -37,7 +37,7 @@ body,html {
 
   li{
       width:200px;
-  }
+  }                                                         /*Système de bouton pour le menu*/
   
   li:last-child a {
     margin-right: 0;
@@ -58,6 +58,8 @@ body,html {
     background: red;
     color: white;
   }
+  
+  
   div.photo{float : right}
   li.cv{width:100%}
   li.cv2{width : 100% ; outline : none}
