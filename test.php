@@ -13,7 +13,7 @@
 <body>
     
     <?php 
-    $var=MessageAcceuil(5,6);
+    $var=MessageAcceuil(20,10);
     echo $var;
     ?>
         
